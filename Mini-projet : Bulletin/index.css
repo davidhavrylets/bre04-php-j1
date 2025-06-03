@@ -1,0 +1,25 @@
+.red {
+    color: red;
+}
+
+.green {
+    color: green;
+
+}
+
+.orange {
+    color: orange;
+}
+
+body {
+    
+    background-color: white;
+}
+
+header {
+    align-items: center;
+}
+
+h1, h2 {
+    align-items: center;
+}
